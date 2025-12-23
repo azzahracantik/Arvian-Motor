@@ -12,12 +12,12 @@
   "lang": "id",
   "icons": [
     {
-      "src": "icons/icon-192x192-A.png",
+      "src": "assets/arvian-192x192-A.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-512x512-B.png",
+      "src": "assets/arvian-512x512-B.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -41,7 +41,7 @@
       "url": "./index.html",
       "icons": [
         {
-          "src": "icons/icon-192x192-A.png",
+          "src": "assets/arvian-192x192-A.jpg",
           "sizes": "192x192"
         }
       ]

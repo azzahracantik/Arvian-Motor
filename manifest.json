@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "PWA Template Responsif",
-  "short_name": "PWA Demo",
-  "description": "Aplikasi PWA responsif untuk demonstrasi template dasar Progressive Web App dengan dukungan offline dan installable.",
+  "name": "Arvian Motor App",
+  "short_name": "Arvian Motor",
+  "description": "Aplikasi Kode Kerusakan Motor Injeksi (FI) adalah aplikasi panduan teknis yang dirancang khusus untuk membantu mekanik dalam menganalisis dan menangani kerusakan pada motor injeksi. Aplikasi ini menyajikan informasi lengkap mengenai kode kerusakan (error code) yang muncul pada sistem injeksi motor, baik merek Honda PGM-FI maupun Yamaha FI",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
